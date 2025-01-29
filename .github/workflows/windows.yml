@@ -1,4 +1,4 @@
-name: Release
+name: Windows-Trigger
 on:
   workflow_dispatch:
 
